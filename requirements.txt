@@ -1,0 +1,4 @@
+Flask==1.0
+flask-migrate==2.1.1
+requests==2.19.1
+requests_oauthlib==1.0.0
